@@ -1,0 +1,11 @@
+.link{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 70px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: x-large;
+    margin : 20px;
+    
+}
+
